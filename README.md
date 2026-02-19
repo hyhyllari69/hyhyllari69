@@ -18,3 +18,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/hyhyllari69/hyhyllari69/output/snake.svg" alt="Snake animation" />
+
+###
