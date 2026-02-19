@@ -14,8 +14,7 @@
 
 ###
 
-<div align="left">
-</div>
+<p align="left">Curso: Desenvolvimento de Sistemas CEEPK<br>Matéria Fav: Programação Mobile<br>Hobby: Jogos</p>
 
 ###
 
